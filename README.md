@@ -1,5 +1,7 @@
 # Weapons Detection Project
 
+This repo details the work done the module project of NUS CS4243 Computer Vision and Pattern Recognition.
+
 ## Problem Statement
 Given a video or image dataset, we are required to develop an algorithm to classify between 3 classes:
 
