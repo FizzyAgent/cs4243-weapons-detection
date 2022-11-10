@@ -29,6 +29,6 @@ We split the dataset such that given a video, if its frames are being used for t
 In `training` directory, you can find the scripts for [training for images](https://github.com/FizzyAgent/cs4243-weapons-detection/blob/master/training/image_training.ipynb), [training for audio](https://github.com/FizzyAgent/cs4243-weapons-detection/blob/master/training/spectrogram_training.ipynb) and [ensemble testing](https://github.com/FizzyAgent/cs4243-weapons-detection/blob/master/training/ensemble_testing.ipynb).
 
 ### Demo
-In `demo` directory, you can find our original video for demo and [the output video with class annotation](https://github.com/FizzyAgent/cs4243-weapons-detection/blob/master/demo/0217442_3182022_threat_1283_output_classification.mp4) in all of its frames.
+In `demo` directory, you can find our original video for demo and [the output video with class annotation](https://github.com/FizzyAgent/cs4243-weapons-detection/blob/master/demo/0217442_3182022_threat_1283_output_classification.avi) in all of its frames.
 
 You can try with other video by changing the `video_name` variable in `demo/demo.ipynb`.
